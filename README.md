@@ -1,4 +1,4 @@
-# cesium-webpack-example
+# nextech-webpack-example
 
 A minimal recommended setup for an applications using [Cesium](https://cesiumjs.org/) with [Webpack](https://webpack.js.org/concepts/).
 
