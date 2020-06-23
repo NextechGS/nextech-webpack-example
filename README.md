@@ -69,7 +69,7 @@ rules: [{
 
 ## Contributions
 
-Pull requests are appreciated. Please use the same [Contributor License Agreement (CLA)](https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTING.md) used for [Cesium](https://cesiumjs.org/).
+Pull requests are appreciated. Please use the same [Contributor License Agreement (CLA)](https://github.com/NextechGS/NextechJS/blob/master/CONTRIBUTING.md) used for [NextechGS](https://github.com/NextechGS/).
 
 ---
 
